@@ -1,4 +1,4 @@
-Ini adalah file controller nambah-kata
+Ini adalah file controller Indonesia
 
 Ada base controller
 - View
