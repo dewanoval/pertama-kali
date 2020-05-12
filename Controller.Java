@@ -1,4 +1,4 @@
-Ini adalah file controller
+Ini adalah file controller nambah-kata
 
 Ada base controller
 - View
